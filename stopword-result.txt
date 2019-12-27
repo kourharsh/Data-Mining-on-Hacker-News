@@ -1,0 +1,10 @@
+1  Poll: Did you see the alternative parse of the title?  show_hn  -7.5613200826  -8.5229603850  -7.3889724024  -9.2421780889  poll  wrong
+2  Poll: Would you like a separate page for “HN Polls”, just like “Jobs”?  poll  -6.7950517755  -6.3768323493  -6.7505623890  -5.9912703892  poll  right
+3  Poll: Which search engine do you use most regularly?  ask_hn  -3.1589652604  -3.0546130546  -3.1367205672  -3.1047796640  poll  wrong
+4  Cerebral blood flow and personality: a positron emission tomography study  story  -0.4771212547  -0.6532125138  -0.4771212547  -0.9542425094  story  right
+5  Battling AI algorithm tested on a quantum computer for first time  story  -6.3179305208  -6.8539536040  -6.7505623890  -6.4683916439  story  right
+6  Machine learning leads mathematicians to unsolvable problem  story  -5.8408092660  -6.3768323493  -6.2734411343  -6.9455128986  story  right
+7  Ask_HN: How should AI education be incorporated into med school curriculum?  story  -3.1589652604  -3.7535830589  -3.6138418219  -3.9498777040  ask_hn  wrong
+8  Ask_HN: Why extremely big companies acquire other companies in their own space?  ask_hn  -12.1587397868  -10.9243609258  -13.0240035233  -12.9367832878  ask_hn  right
+9  Show_HN: Sample App Implementing Android Architecture Components with Dagger2  story  -0.4771212547  -0.6532125138  -0.4771212547  -0.9542425094  show_hn  wrong
+10  Show HN: Sound Mixer for RPG Games – Make Dungeons and Dragons More Interesting  show_hn  -6.7950517755  -6.3768323493  -5.1823606650  -6.9455128986  show_hn  right
